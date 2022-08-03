@@ -13,7 +13,6 @@ the resize script to make it smaller and render faster.
 ----------------------------------------------PREREQUISITES---------------------------------------------------------
 
 Python is required to use these scripts and the Python Image Library is needed. Specifically python3 or above.
-Pillow is required to use these scripts and is used to render the images. 
 
 For More Information:
 
