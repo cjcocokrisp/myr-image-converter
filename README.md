@@ -10,7 +10,7 @@ resize.py will resize an image based on the percentage that you give.
 Important Note: Some images may be too large to be rendered in a good amount of time in MYR so use
 the resize script to make it smaller and render faster. 
 
-----------------------------------------------PREREQUISITES-------------------------------------------------------------
+----------------------------------------------PREREQUISITES---------------------------------------------------------
 
 Python is required to use these scripts and the Python Image Library is needed. Specifically python3 or above.
 Pillow is required to use these scripts and is used to render the images. 
